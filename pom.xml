@@ -5,6 +5,7 @@
 
     <groupId>net.bijo.joy</groupId>
     <artifactId>hello-world</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Spring Boot </name>
     <description>Getting started with Spring Boot</description>
